@@ -1,0 +1,22 @@
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Simulink code generation folders
+slprj/
+sccprj/
+
+# Simulink autosave extension
+*.autosave
+
+# Simulink cache files
+*.slxc
+
+#Archivos para ignorar del sistema MATLAB
+*.MATLABDriveTag
+*.zip
+
+#Direcciones que quiero omitir
+/data/*.txt
+
+
